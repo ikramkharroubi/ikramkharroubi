@@ -81,7 +81,6 @@ With a strong commitment to innovation, I aim to continue developing my expertis
     <div style="width: 3%; height: 100%; background-color:#c6538c; float:left;"></div> <!-- SCSS -->
   </div>
 
-
   <!-- Légende -->
   <ul style="list-style:none; padding:0; color:#c9d1d9; font-size: 14px;">
     <li>🔵 <strong>Python</strong></li>
