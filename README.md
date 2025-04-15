@@ -40,5 +40,37 @@ Over the past two years, I have developed expertise in various AI domains, inclu
 With a strong commitment to innovation, I aim to continue developing my expertise in **Big Data** and **machine learning optimization**. I am excited to collaborate on global projects that contribute to meaningful technological advancements and drive positive societal changes.
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+---
+
+## 🧑‍💻 Most Used Languages
+
+```plaintext
+Python     ██████████████████████████████████████████ 40.12%
+JavaScript ███████████████████████████              28.35%
+Java       ████████████                            12.67%
+C#         █████████                               9.53%
+HTML       ██████                                  4.28%
+CSS        ████                                    3.88%
+SCSS       █                                       1.17%
+
+
 
 
