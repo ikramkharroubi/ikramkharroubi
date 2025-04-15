@@ -59,27 +59,31 @@ With a strong commitment to innovation, I aim to continue developing my expertis
 ---
 
 ---
-<h2>🧑‍💻 Most Used Languages</h2>
+h2>🧑‍💻 Most Used Languages</h2>
 
 <div style="background-color:#0d1117; padding: 15px; border-radius: 10px; width: fit-content; border: 1px solid #30363d;">
   <p style="color:#58a6ff; font-weight:bold; font-size: 16px;">Most Used Languages</p>
+
+  <!-- Barre principale -->
   <div style="height:10px; width: 100%; background-color:#30363d; border-radius:5px; overflow:hidden; margin-bottom:10px;">
-    <div style="width: 45.04%; height: 100%; background-color:#178600; float:left;"></div>
-    <div style="width: 30.26%; height: 100%; background-color:#f1e05a; float:left;"></div>
-    <div style="width: 11.49%; height: 100%; background-color:#563d7c; float:left;"></div>
-    <div style="width: 10.80%; height: 100%; background-color:#e34c26; float:left;"></div>
-    <div style="width: 1.61%; height: 100%; background-color:#3572A5; float:left;"></div>
-    <div style="width: 0.80%; height: 100%; background-color:#c6538c; float:left;"></div>
+    <div style="width: 35%; height: 100%; background-color:#3572A5; float:left;"></div> <!-- Python -->
+    <div style="width: 25%; height: 100%; background-color:#f1e05a; float:left;"></div> <!-- JavaScript -->
+    <div style="width: 15%; height: 100%; background-color:#b07219; float:left;"></div> <!-- Java -->
+    <div style="width: 10%; height: 100%; background-color:#178600; float:left;"></div> <!-- C# -->
+    <div style="width: 7%; height: 100%; background-color:#e34c26; float:left;"></div> <!-- HTML -->
+    <div style="width: 5%; height: 100%; background-color:#563d7c; float:left;"></div> <!-- CSS -->
+    <div style="width: 3%; height: 100%; background-color:#c6538c; float:left;"></div> <!-- SCSS -->
   </div>
 
+  <!-- Légende -->
   <ul style="list-style:none; padding:0; color:#c9d1d9; font-size: 14px;">
-    <li>🟢 <strong>C#</strong> - 45.04%</li>
-    <li>🟡 <strong>JavaScript</strong> - 30.26%</li>
-    <li>🟣 <strong>CSS</strong> - 11.49%</li>
-    <li>🔴 <strong>HTML</strong> - 10.80%</li>
-    <li>🔵 <strong>Python</strong> - 1.61%</li>
-    <li>🟣 <strong>SCSS</strong> - 0.80%</li>
+    <li>🔵 <strong>Python</strong></li>
+    <li>🟡 <strong>JavaScript</strong></li>
+    <li>🟤 <strong>Java</strong></li>
+    <li>🟢 <strong>C#</strong></li>
+    <li>🔴 <strong>HTML</strong></li>
+    <li>🟣 <strong>CSS</strong></li>
+    <li>🟣 <strong>SCSS</strong></li>
   </ul>
 </div>
-
 
